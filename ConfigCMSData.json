@@ -1,0 +1,10 @@
+{
+  "SourceFilePath": "C:\\aks_area\\CMS_DATA_1.28_WF\\Batch7\\",
+  "NumberOfFiles": "100",
+  "Destinationpath": "C:\\Users\\Admin\\Desktop\\Destinationpath\\",
+  "OutputSourceFilepath": "C:\\aks_area\\CMS_DATA_1.28_WF\\Batch1\\Output_files\\",
+  "OutputDestinationFilepath": "C:\\Users\\Admin\\Desktop\\output\\",
+  "LocationPath": "C:\\Users\\Admin\\Desktop\\Locatiom.txt\\",
+  "VersionPath":"C:\\Users\\Admin\\Desktop\\cmsversion.txt\\",
+  "NamePath": "C:\\Users\\Admin\\Desktop\\cmsname.txt\\"
+}
